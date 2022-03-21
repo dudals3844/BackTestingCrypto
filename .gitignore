@@ -349,3 +349,4 @@ $RECYCLE.BIN/
 # File Data
 *.csv
 *.pkl
+*.h5
